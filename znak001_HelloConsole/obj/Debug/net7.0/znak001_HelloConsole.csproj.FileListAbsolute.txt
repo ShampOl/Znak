@@ -1,0 +1,14 @@
+C:\Users\lolca\OneDrive\Рабочий стол\znak\znak001_HelloConsole\bin\Debug\net7.0\znak001_HelloConsole.exe
+C:\Users\lolca\OneDrive\Рабочий стол\znak\znak001_HelloConsole\bin\Debug\net7.0\znak001_HelloConsole.deps.json
+C:\Users\lolca\OneDrive\Рабочий стол\znak\znak001_HelloConsole\bin\Debug\net7.0\znak001_HelloConsole.runtimeconfig.json
+C:\Users\lolca\OneDrive\Рабочий стол\znak\znak001_HelloConsole\bin\Debug\net7.0\znak001_HelloConsole.dll
+C:\Users\lolca\OneDrive\Рабочий стол\znak\znak001_HelloConsole\bin\Debug\net7.0\znak001_HelloConsole.pdb
+C:\Users\lolca\OneDrive\Рабочий стол\znak\znak001_HelloConsole\obj\Debug\net7.0\znak001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolca\OneDrive\Рабочий стол\znak\znak001_HelloConsole\obj\Debug\net7.0\znak001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\lolca\OneDrive\Рабочий стол\znak\znak001_HelloConsole\obj\Debug\net7.0\znak001_HelloConsole.AssemblyInfo.cs
+C:\Users\lolca\OneDrive\Рабочий стол\znak\znak001_HelloConsole\obj\Debug\net7.0\znak001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\lolca\OneDrive\Рабочий стол\znak\znak001_HelloConsole\obj\Debug\net7.0\znak001_HelloConsole.dll
+C:\Users\lolca\OneDrive\Рабочий стол\znak\znak001_HelloConsole\obj\Debug\net7.0\refint\znak001_HelloConsole.dll
+C:\Users\lolca\OneDrive\Рабочий стол\znak\znak001_HelloConsole\obj\Debug\net7.0\znak001_HelloConsole.pdb
+C:\Users\lolca\OneDrive\Рабочий стол\znak\znak001_HelloConsole\obj\Debug\net7.0\znak001_HelloConsole.genruntimeconfig.cache
+C:\Users\lolca\OneDrive\Рабочий стол\znak\znak001_HelloConsole\obj\Debug\net7.0\ref\znak001_HelloConsole.dll
